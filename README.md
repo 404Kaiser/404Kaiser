@@ -6,13 +6,11 @@
   
 ##
 
-<div align="center">
-  <p>👨‍💻 I'm working on a personal project of a virtual tabletop RPG sheet for desktop and smartphone using HTML, CSS with SASS, and pure JS 👨‍💻</p>
-  <p>🌱 I’m currently learning android development with Kotlin 📖</p>
-  <p>☕ I like to read and write when in my free time with a nice cup of coffee</p>
-  <p>💛 I am a programming lover... and a pizza lover too :D 🍕</p>
-</div>
-  
+-👨‍💻 I'm working on a personal project of a virtual tabletop RPG sheet for desktop and smartphone using HTML, CSS with SASS, and pure JS 👨‍💻
+-🌱 I’m currently learning android development with Kotlin 📖
+-☕ I like to read and write when in my free time with a nice cup of coffee
+-💛 I am a programming lover... and a pizza lover too :D 🍕
+
 ##
 
 <div align="center" style="display: inline_block">
