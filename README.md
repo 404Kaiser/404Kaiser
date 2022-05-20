@@ -13,8 +13,8 @@
 
 ## ⚙ Github Analitycs
 <div align="center" style="display: inline_block">
-  <img width="50%" alt="Github Analitycs 1" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=404Kaizer&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-  <img width="50%" alt="Github Analitycs 1" height="180em" src="https://github-readme-stats.vercel.app/api?username=404Kaizer&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img width="48%" alt="Github Analitycs 1" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=404Kaizer&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  <img width="48%" alt="Github Analitycs 1" height="180em" src="https://github-readme-stats.vercel.app/api?username=404Kaizer&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
 </div>
 <div align="center" style="display: inline_block"><br>
   <img alt="JS Symbol" align="center" alt="404Kaizer-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
