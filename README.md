@@ -12,6 +12,7 @@
 - 💛 I am a programming lover... and a pizza <🍕3 lover too :D
 
 ## ⚙ Github Analitycs
+<h3 align="center">"It is impossible for a man to learn what he thinks he already knows" - Epictetus</h3>
 <div align="center" style="display: inline_block">
   <a href="https://github.com/404Kaizer"</a>
   <img width="48%" alt="Github Analitycs 1" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=404Kaizer&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
