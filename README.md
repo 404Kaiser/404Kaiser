@@ -6,7 +6,7 @@
   
 ##
 
-- 👨‍💻 I'm working on a personal project of a virtual tabletop RPG sheet for desktop and smartphone using HTML, CSS with SASS, and pure JS
+- 👨‍💻 I'm working on a personal project of a virtual tabletop RPG sheet for desktop using HTML, CSS with SASS, and pure JS, and for smartphones using Kotlin
 - 📖 I’m currently learning android development with Kotlin
 - ☕ I like to read and write when in my free time with a nice cup of coffee
 - 💛 I am a programming lover... and a pizza <🍕3 lover too :D
