@@ -9,8 +9,6 @@
   <p>💛 I am a programming lover... and a pizza lover too :D 🍕</p>
 </div>
 
-##
-
 <div align="center">
   <a href="https://github.com/404Kaiser">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=404Kaiser&layout=compact&langs_count=7&theme=dark"/>
