@@ -1,7 +1,7 @@
 ## Console.log("Welcome to 404Kaizer Profile!")
 
 <div align="center">
-  href="https://github.com/404Kaizer"
+  <a href="https://github.com/404Kaizer"</a>
   <img alt="Good Gif" width="834px" src="https://i.pinimg.com/originals/6d/78/71/6d78711d7c8438405ee8a5a50114f9ac.gif"/>
 </div>
   
