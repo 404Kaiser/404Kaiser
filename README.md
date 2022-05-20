@@ -1,25 +1,25 @@
-## Console.log("Welcome to My Profile 😁!")
+## Console.log("Welcome to 404Kaiser Profile!")
 
 <div align="center">
-  <img width="896px" src="https://i.pinimg.com/originals/6d/78/71/6d78711d7c8438405ee8a5a50114f9ac.gif"/>
+  <img width="834px" src="https://i.pinimg.com/originals/6d/78/71/6d78711d7c8438405ee8a5a50114f9ac.gif"/>
 </div>
   
 ##
 
 <div align="center">
-  <p style="color: purple">👨‍💻 I'm working on a personal project of a virtual tabletop RPG sheet for desktop and smartphone using HTML, CSS with SASS, and pure JS 👨‍💻</p>
-  <p style="color: purple">🌱 I’m currently learning android development with Kotlin 📖</p>
-  <p style="color: purple">☕ I like to read and write when in my free time with a nice cup of coffee</p>
-  <p style="color: purple">💛 I am a programming lover... and a pizza lover too :D 🍕</p>
+  <p>👨‍💻 I'm working on a personal project of a virtual tabletop RPG sheet for desktop and smartphone using HTML, CSS with SASS, and pure JS 👨‍💻</p>
+  <p>🌱 I’m currently learning android development with Kotlin 📖</p>
+  <p>☕ I like to read and write when in my free time with a nice cup of coffee</p>
+  <p>💛 I am a programming lover... and a pizza lover too :D 🍕</p>
 </div>
   
 ##
 
-<div align="center">
+<div align="center" style="display: inline_block">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=404Kaiser&layout=compact&langs_count=7&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=404Kaiser&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="404Kaiser-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="404Kaiser-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="404Kaiser-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
