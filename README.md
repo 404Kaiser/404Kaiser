@@ -7,9 +7,9 @@
 ##
 
 - 👨‍💻 I'm working on a personal project of a virtual tabletop RPG sheet for desktop using HTML, CSS with SASS, and pure JS, and for smartphones using Kotlin
-- 📖 I’m currently learning android development with Kotlin
+- 📖 Information System Major 6/8 🙏🏻
 - ☕ I like to read and write in my free time with a nice cup of coffee
-- 💛 I am a programming lover... and a pizza <🍕3 lover too :D
+- 💛 I am a programming and pizza <🍕3 lover :D
 
 ## ⚙ Github Analitycs
 <h3 align="center">"It is impossible for a man to learn what he thinks he already knows" - Epictetus</h3>
