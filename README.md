@@ -1,4 +1,4 @@
-## Console.log("Welcome to 404Kaizer Profile!")
+## Console.log("Welcome to my Profile!")
 
 <div align="center">
   <img alt="Good Gif" width="834px" src="https://i.pinimg.com/originals/6d/78/71/6d78711d7c8438405ee8a5a50114f9ac.gif"/>
