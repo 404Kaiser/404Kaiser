@@ -7,7 +7,7 @@
 ##
 
 - 👨‍💻 I'm working on a personal project of a virtual tabletop RPG sheet for desktop using HTML, CSS with SASS, and pure JS, and for smartphones using Kotlin
-- 📖 Information System Major 6/8 🙏🏻
+- 📖 Information System Major 8/8 🙏🏻
 - ☕ I like to read and write in my free time with a nice cup of coffee
 - 💛 I am a programming and pizza <🍕3 lover :D
 
